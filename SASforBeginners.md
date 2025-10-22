@@ -16,8 +16,8 @@ Chaque programme SAS est composé de **3 grandes étapes** :
 ## ⚙️ Structure d’un programme SAS
 
 ```
-DATA Step  →  PROC Step  →  OUTPUT Step
-(lecture / création)   (analyse)     (affichage)
+DATA Step       →       PROC Step    →     OUTPUT Step
+(lecture / création)    (analyse)          (affichage)
 ```
 
 ---
