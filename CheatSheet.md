@@ -37,6 +37,8 @@ words = sc.parallelize([
    "spark vs hadoop", "pyspark", "pyspark and spark"
 ])
 ```
+``sc.parallelize()``
+crée un RDD à partir d'une collection Python locale (comme une liste).
 
 ---
 
